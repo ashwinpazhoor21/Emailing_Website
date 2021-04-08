@@ -1,4 +1,4 @@
-# Project 3: Mail
+# Email Website (similar to gmail)
 
 Description:
 
@@ -17,7 +17,3 @@ Description:
 *project3* This Folder holds more *_pycache_* files and more python files.
 
 *manage.py* This file is the main file that helps to run the entire application.
-
-
-## Demonstration Video 
-Youtube Link: https://youtu.be/DCA864tiTD4
