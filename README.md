@@ -1,4 +1,4 @@
-# Email Website (similar to gmail)
+# Email Website (similar to Gmail)
 
 Description:
 
