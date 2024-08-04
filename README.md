@@ -1,19 +1,21 @@
-# Email Website (similar to Gmail)
+# Email Client (Similar to Gmail)
 
-Description:
+## Description
+This project is an email website designed to function similarly to Gmail, developed as a part of exploring web development using Django.
 
-*vs.code*: This file contains all the settings to run the program in visual studio code.
+## Folder Structure
 
-*mail*: This Folder contains the *_pycache_*, *migrations*, *static/mail* folder, *templates/mail* folder and some other python files used to import the django aspects of the project.
+- **.vscode**: Contains configuration files for running the project in Visual Studio Code.
 
-*_pycache_*: This folder contains all the previous session data from running this project.
+- **mail**: This folder includes several subfolders and files integral to the project:
+  - **_pycache_**: Stores cached data from previous sessions of running the project.
+  - **migrations**: Contains migration files and additional cached data.
+  - **static/mail**: Houses all static assets, including images, CSS for styling the application, and JavaScript for the inbox functionality.
+  - **templates/mail**: Contains HTML files that render the application's user interface in the web browser.
 
-*migrations*: Contains more *_pycache_* files and some other python files.
+- **project3**: Contains additional cached files and Python scripts related to the project.
 
-*static/mail* This folder contains the images, the css for this entire appication and the js for the inbox of the mail website.
+- **manage.py**: The primary script for managing and running the Django application.
 
-*templates/mail* This folder contains all the html files for the application and these are the files that help display the application on the web browser.
-
-*project3* This Folder holds more *_pycache_* files and more python files.
-
-*manage.py* This file is the main file that helps to run the entire application.
+## Reflection
+This project provided hands-on experience in building a web application with Django. It involved setting up a structured environment, managing static and dynamic content, and ensuring smooth operation through proper configuration. Through this project, I gained a deeper understanding of web development frameworks, front-end and back-end integration, and the importance of efficient data handling. The experience of developing an email application helped me grasp the complexities of user interface design and functionality similar to well-known platforms like Gmail.
